@@ -15,3 +15,8 @@ Buenos días. Mi nombre es Alex Santos. Practicando sobre estilo de texto:
 - **29 de junio** *se celebra aniversario de fundación de San Pedro Sula.*
 - ##Hace falta el café a esta hora!##
 - Consultas sobre el estilo se pueden hacer en: [GitHub Docs](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## subtitulo 3
+
+**Probando edicion** Por Carlos Perdomo
+- *Practicando distintos estilos de texto, este es cursiva*
